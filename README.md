@@ -13,10 +13,13 @@ Place .bin files in /platforms/_images
 ![Arcade Multi](https://github.com/user-attachments/assets/1eee037f-e5c7-4253-adc8-6167bb6d769c)
 
 # COMPUTER ARTWORK
-![Computer Cores](https://github.com/user-attachments/assets/f84a0082-97aa-4fbb-9f07-e2d8d99a953f)
+![Computer](https://github.com/user-attachments/assets/619220d1-3396-4b47-a6e9-d86034c3f4d1)
 
 # CONSOLE ARTWORK
-![Console](https://github.com/user-attachments/assets/ff2efbcd-d576-4181-9849-32127eebce09)
+![Console](https://github.com/user-attachments/assets/7b583ee4-56ef-4375-a0ed-e49382f0cfc7)
 
 # HANDHELD ARTWORK
-![Handheld](https://github.com/user-attachments/assets/2eecfc66-6166-476c-928f-0d783a995529)
+![Handheld](https://github.com/user-attachments/assets/0688023f-4748-4f91-b809-9c3db40574b0)
+
+# OTHER ARTWORK
+![Others](https://github.com/user-attachments/assets/208683a2-d1c1-42d6-a65b-71c7fb4ac559)
