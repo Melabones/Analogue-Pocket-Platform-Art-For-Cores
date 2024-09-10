@@ -5,12 +5,12 @@ Set of Core art for the Analogue Pocket. Includes 147 platform artworks for Arca
 Place .bin files in /platforms/_images
 
 # ARCADE ARTWORK
-![Arcade 1](https://github.com/user-attachments/assets/5db2c446-a78c-4958-93a1-478b3c066fdd)
-![Arcade 2](https://github.com/user-attachments/assets/945f80f1-abe2-4f78-8b36-2801bc879a2c)
-![Arcade 3](https://github.com/user-attachments/assets/66f3494d-332f-4232-bb5a-ec5deae5abda)
-![Arcade 4](https://github.com/user-attachments/assets/a2a5b86f-e057-46bb-b6a9-aff182b9a341)
-![Arcade 5](https://github.com/user-attachments/assets/93329022-d16a-4ca1-875a-a191352905de)
-![Arcade Multi](https://github.com/user-attachments/assets/1eee037f-e5c7-4253-adc8-6167bb6d769c)
+![Arcade 1](https://github.com/user-attachments/assets/548fea78-e1e4-4eac-a24f-0052365a361c)
+![Arcade 2](https://github.com/user-attachments/assets/064610a0-5523-4f76-8ef8-e65908fd4efe)
+![Arcade 3](https://github.com/user-attachments/assets/e03172ba-5f43-47ef-aff2-356a68937afa)
+![Arcade 4](https://github.com/user-attachments/assets/8fe7f781-658d-455d-a865-570a33d65653)
+![Arcade 5](https://github.com/user-attachments/assets/4295c23e-edea-4ca7-9b91-e72a31ddaeca)
+![Arcade Multi](https://github.com/user-attachments/assets/5f344a3f-2279-4bbd-a9d7-a6cfd0c83e85)
 
 # COMPUTER ARTWORK
 ![Computer](https://github.com/user-attachments/assets/619220d1-3396-4b47-a6e9-d86034c3f4d1)
