@@ -22,4 +22,4 @@ Place .bin files in /platforms/_images
 ![Handheld](https://github.com/user-attachments/assets/0688023f-4748-4f91-b809-9c3db40574b0)
 
 # OTHER ARTWORK
-![Others](https://github.com/user-attachments/assets/208683a2-d1c1-42d6-a65b-71c7fb4ac559)
+![Gears Studios Flappy Bird aLT](https://github.com/user-attachments/assets/00140480-f82e-4785-aa10-ea8e54a5f74e)
