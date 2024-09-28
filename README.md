@@ -17,10 +17,10 @@ Place .bin files in /platforms/_images
 ![Computer](https://github.com/user-attachments/assets/619220d1-3396-4b47-a6e9-d86034c3f4d1)
 
 # CONSOLE ARTWORK
-![Console](https://github.com/user-attachments/assets/7b583ee4-56ef-4375-a0ed-e49382f0cfc7)
+![Console](https://github.com/user-attachments/assets/a23eb58e-26fe-4a71-9e58-5243f0481c94)
 
 # HANDHELD ARTWORK
-![Handheld](https://github.com/user-attachments/assets/0688023f-4748-4f91-b809-9c3db40574b0)
+![Handheld](https://github.com/user-attachments/assets/5aa511a3-73fc-4d64-bd69-84d401ea4013)
 
 # OTHER ARTWORK
 ![download](https://github.com/user-attachments/assets/01b7942f-c415-4ddb-a5af-4305cac78772)
