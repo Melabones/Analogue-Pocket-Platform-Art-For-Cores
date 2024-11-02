@@ -4,7 +4,7 @@ Set of Core art for the Analogue Pocket. Includes 157 platform artworks for the 
 # How to install
 Place .bin files in /platforms/_images
 
-# ARCADE ARTWORK (113)
+# ARCADE ARTWORK (114)
 ![Arcade 1](https://github.com/user-attachments/assets/09c62f50-7173-4dcc-b78c-5140246eaad5)
 ![Arcade 2](https://github.com/user-attachments/assets/064610a0-5523-4f76-8ef8-e65908fd4efe)
 ![Arcade 3](https://github.com/user-attachments/assets/e03172ba-5f43-47ef-aff2-356a68937afa)
