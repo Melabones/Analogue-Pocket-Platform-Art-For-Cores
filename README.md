@@ -14,7 +14,7 @@ Place .bin files in /platforms/_images
 ![Arcade Multi](https://github.com/user-attachments/assets/5f344a3f-2279-4bbd-a9d7-a6cfd0c83e85)
 
 # COMPUTER ARTWORK (6)
-![Computer](https://github.com/user-attachments/assets/3c662389-8dd7-4808-800a-97eb79f9471f)
+![Computer](https://github.com/user-attachments/assets/35e96e79-58e5-41a3-8f9e-ba4f2c0fcfbf)
 
 # CONSOLE ARTWORK (20)
 ![Console](https://github.com/user-attachments/assets/1302fd88-236b-428b-ba4c-44bc2a3c459a)
