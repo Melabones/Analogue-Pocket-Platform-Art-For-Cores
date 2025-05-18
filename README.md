@@ -11,7 +11,7 @@ Place .bin files in /platforms/_images
 ![Arcade 4](https://github.com/user-attachments/assets/8fe7f781-658d-455d-a865-570a33d65653)
 ![Arcade 5](https://github.com/user-attachments/assets/e3542787-8f38-4146-a9be-0cc289eb4233)
 ![Arcade 6](https://github.com/user-attachments/assets/741ee752-4af4-44bc-8be4-eb9690edf749)
-![Arcade Multi](https://github.com/user-attachments/assets/1223d837-89b6-4a84-8d3c-620ae2fc7787)
+![Arcade Multi](https://github.com/user-attachments/assets/1d672d4b-875d-4c0d-8c00-59ed3aa063eb)
 
 # COMPUTER ARTWORK (7)
 ![Computer](https://github.com/user-attachments/assets/bb21dc6e-2f9e-4489-b789-42ddf9fb8894)
