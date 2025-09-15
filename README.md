@@ -1,5 +1,5 @@
 # Analogue Pocket Platform Art For Cores
-Set of Core art for the Analogue Pocket. Includes 176 platform artworks for the Arcade, Computer, Console, Handheld cores. New artwork will be added as newer cores are added.
+Set of Core art for the Analogue Pocket. Includes 179 platform artworks for the Arcade, Computer, Console, Handheld cores. New artwork will be added as newer cores are added.
 
 # How to install
 Place .bin files in /platforms/_images
@@ -16,7 +16,7 @@ Place .bin files in /platforms/_images
 # COMPUTER ARTWORK (7)
 ![Computer](https://github.com/user-attachments/assets/bb21dc6e-2f9e-4489-b789-42ddf9fb8894)
 
-# CONSOLE ARTWORK (20)
+# CONSOLE ARTWORK (21)
 ![Console](https://github.com/user-attachments/assets/1302fd88-236b-428b-ba4c-44bc2a3c459a)
 
 # HANDHELD ARTWORK (17)
