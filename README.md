@@ -5,25 +5,28 @@ Set of Core art for the Analogue Pocket. Includes 249 platform artworks for the 
 Place .bin files in /platforms/_images
 
 # ARCADE ARTWORK (185)
-![Arcade 1](https://github.com/user-attachments/assets/09c62f50-7173-4dcc-b78c-5140246eaad5)
-![Arcade 2](https://github.com/user-attachments/assets/064610a0-5523-4f76-8ef8-e65908fd4efe)
-![Arcade 3](https://github.com/user-attachments/assets/e03172ba-5f43-47ef-aff2-356a68937afa)
-![Arcade 4](https://github.com/user-attachments/assets/8fe7f781-658d-455d-a865-570a33d65653)
-![Arcade 5](https://github.com/user-attachments/assets/e3542787-8f38-4146-a9be-0cc289eb4233)
-<img width="2605" height="660" alt="Arcade 6" src="https://github.com/user-attachments/assets/1a46dd69-83ea-4c97-ada3-6721fe359b55" />
-![Arcade Multi](https://github.com/user-attachments/assets/1d672d4b-875d-4c0d-8c00-59ed3aa063eb)
+<img width="6144" height="4096" alt="Arcade 1" src="https://github.com/user-attachments/assets/0eb6ea11-54b8-4484-b15a-df291147044b" />
+<img width="6144" height="4096" alt="Arcade 2" src="https://github.com/user-attachments/assets/0384163a-8d9b-4e0c-a23d-6119ccade1ea" />
+<img width="6144" height="4096" alt="Arcade 3" src="https://github.com/user-attachments/assets/c3c452c2-759c-4a92-b9ff-afeff3391405" />
+<img width="6144" height="4096" alt="Arcade 4" src="https://github.com/user-attachments/assets/20436ae9-e854-477b-ad06-04e48f5ad055" />
+<img width="6144" height="4096" alt="Arcade 5" src="https://github.com/user-attachments/assets/a5409466-50f7-4b88-8799-27b2e5001171" />
+<img width="6144" height="4096" alt="Arcade 6" src="https://github.com/user-attachments/assets/500a7c5b-c3e4-4a71-8948-130fb4a87ad0" />
+<img width="6144" height="4096" alt="Arcade 7" src="https://github.com/user-attachments/assets/344630e9-7ba8-4219-ad6f-6de0347752e4" />
+<img width="6144" height="4096" alt="Arcade 8" src="https://github.com/user-attachments/assets/5e77110c-1d2b-4247-b476-70eff7a0f00f" />
+<img width="6144" height="4096" alt="Arcade Multi" src="https://github.com/user-attachments/assets/4414da46-ec12-4da3-987e-121d7f8e4a56" />
 
 # COMPUTER ARTWORK (25)
-![Computer](https://github.com/user-attachments/assets/bb21dc6e-2f9e-4489-b789-42ddf9fb8894)
+<img width="6144" height="4096" alt="Computer 1" src="https://github.com/user-attachments/assets/ca6aad70-1e9d-4020-91fb-31c9bf215439" />
+<img width="6144" height="4096" alt="Computer 2" src="https://github.com/user-attachments/assets/14aeaaee-35f0-499c-8b3a-df6eefb13422" />
 
 # CONSOLE ARTWORK (21)
-![Console](https://github.com/user-attachments/assets/1302fd88-236b-428b-ba4c-44bc2a3c459a)
+<img width="6144" height="4096" alt="Console" src="https://github.com/user-attachments/assets/53f19c29-39ed-440d-b3be-4fb3ec1e7427" />
 
 # HANDHELD ARTWORK (17)
-![Handheld](https://github.com/user-attachments/assets/5aa511a3-73fc-4d64-bd69-84d401ea4013)
+<img width="6144" height="4096" alt="Handheld" src="https://github.com/user-attachments/assets/e437e978-994b-47df-8bd2-dc5bbc7c1cc0" />
 
 # MEDIA ARTWORK (1)
-<img width="521" height="165" alt="MP3 Player" src="https://github.com/user-attachments/assets/527e0fcf-c99a-4c7d-8045-ccca0f41bcf0" />
+<img width="6144" height="4096" alt="Media" src="https://github.com/user-attachments/assets/7f6556bb-38c5-49ff-bfd3-56f3bdeba329" />
 
 # OTHER ARTWORK (1)
 ![download](https://github.com/user-attachments/assets/01b7942f-c415-4ddb-a5af-4305cac78772)
