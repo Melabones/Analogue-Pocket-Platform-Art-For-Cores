@@ -13,6 +13,7 @@ Place .bin files in /platforms/_images
 <img width="6144" height="4096" alt="Arcade 6" src="https://github.com/user-attachments/assets/500a7c5b-c3e4-4a71-8948-130fb4a87ad0" />
 <img width="6144" height="4096" alt="Arcade 7" src="https://github.com/user-attachments/assets/344630e9-7ba8-4219-ad6f-6de0347752e4" />
 <img width="6144" height="4096" alt="Arcade 8" src="https://github.com/user-attachments/assets/5e77110c-1d2b-4247-b476-70eff7a0f00f" />
+<img width="6144" height="4096" alt="Arcade 9" src="https://github.com/user-attachments/assets/030c906a-73a2-4a03-bd63-61c600a68110" />
 <img width="6144" height="4096" alt="Arcade Multi" src="https://github.com/user-attachments/assets/4414da46-ec12-4da3-987e-121d7f8e4a56" />
 
 # COMPUTER ARTWORK (25)
@@ -23,7 +24,7 @@ Place .bin files in /platforms/_images
 <img width="6144" height="4096" alt="Console" src="https://github.com/user-attachments/assets/53f19c29-39ed-440d-b3be-4fb3ec1e7427" />
 
 # HANDHELD ARTWORK (17)
-<img width="6144" height="4096" alt="Handheld" src="https://github.com/user-attachments/assets/e437e978-994b-47df-8bd2-dc5bbc7c1cc0" />
+<img width="6144" height="4096" alt="Handheld" src="https://github.com/user-attachments/assets/29f46da0-96a5-4ffa-9f0f-256187168227" />
 
 # MEDIA ARTWORK (1)
 <img width="6144" height="4096" alt="Media" src="https://github.com/user-attachments/assets/7f6556bb-38c5-49ff-bfd3-56f3bdeba329" />
