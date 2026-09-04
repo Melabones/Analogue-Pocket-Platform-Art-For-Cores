@@ -28,12 +28,12 @@ Place .bin files in /platforms/_images
 
 # MEDIA ARTWORK (3)
 <img width="521" height="165" alt="MP3 Player" src="https://github.com/user-attachments/assets/78fd8c3a-5621-4da2-90ee-c2c53c9be4dc" />
-<img width="521" height="165" alt="Pocket Player" src="https://github.com/user-attachments/assets/687d5f96-4822-4644-bede-08b7193010cf" />
-<img width="521" height="165" alt="Tracker Mod Player 2" src="https://github.com/user-attachments/assets/6f0746f4-7806-4e35-a1cf-765a3251a70d" />
+<img width="521" height="165" alt="download (3)" src="https://github.com/user-attachments/assets/a32f29ce-aa31-4978-95c4-a1ee8611bbc1" />
+<img width="521" height="165" alt="download (2)" src="https://github.com/user-attachments/assets/1221d780-66bf-4842-bcb4-bcf5d2766283" />
 
 # STANDALONE ARTWORK (2)
 ![download](https://github.com/user-attachments/assets/01b7942f-c415-4ddb-a5af-4305cac78772)
-<img width="521" height="165" alt="Paprium" src="https://github.com/user-attachments/assets/b4dcb392-4a08-405d-ae65-b7c3381b6ba8" />
+<img width="521" height="165" alt="download (1)" src="https://github.com/user-attachments/assets/98c4a063-780c-40fd-9bc4-4a6d93b60c68" />
 
 # TOOLS ARTWORK (1)
 ![Mem Tester](https://github.com/user-attachments/assets/61da0974-0bc9-413c-b93b-15ef63af6e55)
