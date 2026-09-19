@@ -1,10 +1,10 @@
 # Analogue Pocket Platform Art For Cores
-Set of Core art for the Analogue Pocket. Includes 257 platform artworks for the Arcade, Computer, Console, Handheld cores. New artwork will be added as newer cores are added.
+Set of Core art for the Analogue Pocket. Includes platform artwork for Arcade, Computer, Console, Handheld, Media, Standalone and Tools cores. New artwork will be added as newer cores are added.
 
 # How to install
 Place .bin files in /platforms/_images
 
-# ARCADE ARTWORK (187)
+# ARCADE ARTWORK
 <img width="6144" height="4096" alt="Arcade 1" src="https://github.com/user-attachments/assets/0eb6ea11-54b8-4484-b15a-df291147044b" />
 <img width="6144" height="4096" alt="Arcade 2" src="https://github.com/user-attachments/assets/0384163a-8d9b-4e0c-a23d-6119ccade1ea" />
 <img width="6144" height="4096" alt="Arcade 3" src="https://github.com/user-attachments/assets/c3c452c2-759c-4a92-b9ff-afeff3391405" />
@@ -16,26 +16,26 @@ Place .bin files in /platforms/_images
 <img width="6144" height="4096" alt="Arcade 9" src="https://github.com/user-attachments/assets/030c906a-73a2-4a03-bd63-61c600a68110" />
 <img width="6144" height="4096" alt="Arcade Multi" src="https://github.com/user-attachments/assets/4414da46-ec12-4da3-987e-121d7f8e4a56" />
 
-# COMPUTER ARTWORK (23)
+# COMPUTER ARTWORK
 <img width="6144" height="4096" alt="Computer 1" src="https://github.com/user-attachments/assets/ca6aad70-1e9d-4020-91fb-31c9bf215439" />
 <img width="6144" height="4096" alt="Computer 2" src="https://github.com/user-attachments/assets/14aeaaee-35f0-499c-8b3a-df6eefb13422" />
 
-# CONSOLE ARTWORK (21)
+# CONSOLE ARTWORK
 <img width="6144" height="4096" alt="Console" src="https://github.com/user-attachments/assets/53f19c29-39ed-440d-b3be-4fb3ec1e7427" />
 
-# HANDHELD ARTWORK (19)
+# HANDHELD ARTWORK
 <img width="6144" height="4096" alt="Handheld" src="https://github.com/user-attachments/assets/29f46da0-96a5-4ffa-9f0f-256187168227" />
 
-# MEDIA ARTWORK (3)
+# MEDIA ARTWORK
 <img width="521" height="165" alt="MP3 Player" src="https://github.com/user-attachments/assets/78fd8c3a-5621-4da2-90ee-c2c53c9be4dc" />
 <img width="521" height="165" alt="download (3)" src="https://github.com/user-attachments/assets/a32f29ce-aa31-4978-95c4-a1ee8611bbc1" />
 <img width="521" height="165" alt="download (2)" src="https://github.com/user-attachments/assets/1221d780-66bf-4842-bcb4-bcf5d2766283" />
 
-# STANDALONE ARTWORK (2)
+# STANDALONE ARTWORK
 ![download](https://github.com/user-attachments/assets/01b7942f-c415-4ddb-a5af-4305cac78772)
 <img width="521" height="165" alt="download (1)" src="https://github.com/user-attachments/assets/98c4a063-780c-40fd-9bc4-4a6d93b60c68" />
 
-# TOOLS ARTWORK (2)
+# TOOLS ARTWORK
 ![Mem Tester](https://github.com/user-attachments/assets/61da0974-0bc9-413c-b93b-15ef63af6e55)
 <img width="521" height="165" alt="download" src="https://github.com/user-attachments/assets/867b61ad-5a50-4942-86f2-d9ad88028942" />
 
