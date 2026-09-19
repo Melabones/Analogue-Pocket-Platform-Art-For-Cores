@@ -27,15 +27,17 @@ Place .bin files in /platforms/_images
 <img width="6144" height="4096" alt="Handheld" src="https://github.com/user-attachments/assets/29f46da0-96a5-4ffa-9f0f-256187168227" />
 
 # MEDIA ARTWORK
-<img width="521" height="165" alt="MP3 Player" src="https://github.com/user-attachments/assets/78fd8c3a-5621-4da2-90ee-c2c53c9be4dc" />
-<img width="521" height="165" alt="download (3)" src="https://github.com/user-attachments/assets/a32f29ce-aa31-4978-95c4-a1ee8611bbc1" />
-<img width="521" height="165" alt="download (2)" src="https://github.com/user-attachments/assets/1221d780-66bf-4842-bcb4-bcf5d2766283" />
+<img width="521" height="165" alt="M1" src="https://github.com/user-attachments/assets/21e7a816-dca0-4e89-8c5d-942ef92b7665" />
+<img width="521" height="165" alt="M2" src="https://github.com/user-attachments/assets/af938a4f-4e94-47cc-b89a-7bae0aa0d503" />
+<img width="521" height="165" alt="M3" src="https://github.com/user-attachments/assets/ca349674-98e2-48cf-9d66-0ccafb2e3a41" />
 
 # STANDALONE ARTWORK
-![download](https://github.com/user-attachments/assets/01b7942f-c415-4ddb-a5af-4305cac78772)
-<img width="521" height="165" alt="download (1)" src="https://github.com/user-attachments/assets/98c4a063-780c-40fd-9bc4-4a6d93b60c68" />
+<img width="521" height="165" alt="S1" src="https://github.com/user-attachments/assets/7d0164dd-dbd8-41bf-bfa1-447c7b7bace1" />
+<img width="521" height="165" alt="S2" src="https://github.com/user-attachments/assets/2f607815-1615-4751-9c01-de97b501ccd9" />
 
 # TOOLS ARTWORK
-![Mem Tester](https://github.com/user-attachments/assets/61da0974-0bc9-413c-b93b-15ef63af6e55)
-<img width="521" height="165" alt="download" src="https://github.com/user-attachments/assets/867b61ad-5a50-4942-86f2-d9ad88028942" />
+<img width="521" height="165" alt="T1" src="https://github.com/user-attachments/assets/d91d594e-58e5-42f1-aed8-dc693120999d" />
+<img width="521" height="165" alt="T3" src="https://github.com/user-attachments/assets/28f0635a-638d-44d3-8614-98c60cfd52e5" />
+<img width="521" height="165" alt="T2" src="https://github.com/user-attachments/assets/3731953b-b457-49e5-946b-120bcd3a9526" />
+
 
