@@ -30,4 +30,5 @@ Place .bin files in /platforms/_images
 <img width="521" height="165" alt="T3" src="https://github.com/user-attachments/assets/28f0635a-638d-44d3-8614-98c60cfd52e5" />
 <img width="521" height="165" alt="T2" src="https://github.com/user-attachments/assets/3731953b-b457-49e5-946b-120bcd3a9526" />
 
-
+# UTILITY ARTWORK
+<img width="521" height="165" alt="Pocket IR" src="https://github.com/user-attachments/assets/a1ee62e4-4e8c-41e1-8350-468fb329f64e" />
